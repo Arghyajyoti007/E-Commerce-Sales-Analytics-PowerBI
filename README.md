@@ -6,7 +6,7 @@ This project presents an end-to-end business intelligence solution using Power B
 
 The dashboard enables stakeholders to track KPIs, identify trends, and make data-driven decisions.
 
-## 🌐 Live Dashboard
+## 🌐 Live Dashboard 
 
 [View Dashboard](https://app.powerbi.com/links/g000hH5IaL?ctid=68925209-7378-4959-87b9-88ea918ae4e0&pbi_source=linkShare&bookmarkGuid=fea7b252-4e34-4bde-a604-0b52ac5efc2f)
 
