@@ -1,6 +1,3 @@
-# E-Commerce-Sales-Analytics-PowerBI
-Power BI dashboard analyzing e-commerce sales, product performance, and customer behavior using DAX and star schema modeling.
-
 # 📊 E-Commerce Sales Analytics Dashboard (Power BI)
 This project presents an end-to-end business intelligence solution using Power BI to analyze e-commerce sales performance, customer behavior, and product profitability.
 
