@@ -10,6 +10,34 @@ The dashboard enables stakeholders to track KPIs, identify trends, and make data
 
 [View Dashboard](https://app.powerbi.com/links/g000hH5IaL?ctid=68925209-7378-4959-87b9-88ea918ae4e0&pbi_source=linkShare&bookmarkGuid=fea7b252-4e34-4bde-a604-0b52ac5efc2f)
 
+## 📂 Dashboard Architecture
+
+The report is structured into four specialized analytical layers to drive data-driven decisions.
+
+### 1. Executive Performance Overview
+Focuses on high-level KPIs and regional health to provide stakeholders with immediate business status.
+* **Core Metrics**: Tracks **$2.54M Total Sales** with a robust **36.63% YoY Growth**.
+* **Regional Contribution**: Identifies the **South region** as the top performer ($669K), followed closely by Central ($661K).
+* **Revenue vs. Profit**: Highlights **Technology** as the primary revenue and profit driver ($857K Sales / $103K Profit).
+
+### 2. Product & Pricing Intelligence
+Delivers deep-dives into inventory performance and the impact of pricing strategies.
+* **Product Quadrant Analysis**: Uses scatter plots to visualize the correlation between **Weighted Discounts** and **Profit Margins** across sub-categories.
+* **Top Performers**: Highlights **Storage Model 567** as the highest sales generator ($3,140) and **Paper Model 399** as a high-profit unit.
+* **Category Insights**: Breaks down monthly sales volume by category, including Office Supplies, Technology, and Furniture.
+
+### 3. Customer Segmentation & Geography
+Analyzes the "who" and "where" of the business to refine marketing and logistics.
+* **Segment Dynamics**: Reveals that the **Consumer segment** contributes the vast majority of revenue ($2.5M) compared to Corporate ($40K).
+* **Customer KPIs**: Tracks **Average Order Value ($508)** and **Revenue Per Customer ($5K)**.
+* **Geographic Mapping**: Visualizes sales distribution across the United States to identify high-density market zones.
+
+### 4. Time Intelligence & Retention
+Utilizes advanced logic to analyze growth momentum and seasonal trends.
+* **MoM Growth Tracking**: Analyzes monthly fluctuations, identifying a peak growth of **36.8% in January**.
+* **Seasonality Analysis**: Tracks average sales trends to pinpoint high-performance months (July peak at $236K) vs. year-end dips.
+* **Retention Metrics**: Monitors customer loyalty with a **1.00 Retention Rate** metric.
+
 ## 🚀 Key Features
 
 - Executive KPI Overview (Sales, Profit, Orders, Margin)
