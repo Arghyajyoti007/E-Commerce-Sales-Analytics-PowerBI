@@ -20,9 +20,10 @@ The dashboard enables stakeholders to track KPIs, identify trends, and make data
 - Interactive filters (Year, Region, Category, Segment)
 
 ## 📸 Dashboard Preview
-<img width="1325" height="744" alt="image" src="https://github.com/user-attachments/assets/40d78633-48c8-4497-90fd-202be94884b7" />
-<img width="1323" height="748" alt="image" src="https://github.com/user-attachments/assets/e3a8bea4-3a1a-4476-8dc1-e312d1fffa46" />
-<img width="1322" height="747" alt="image" src="https://github.com/user-attachments/assets/eb0ebbbd-3902-4807-8f96-df97d36f7dc4" />
+<img width="1421" height="797" alt="image" src="https://github.com/user-attachments/assets/d549d62d-5e59-4c3e-8bbc-bc61bb4ee8cf" />
+<img width="1419" height="806" alt="image" src="https://github.com/user-attachments/assets/36eac05a-6668-4527-b47d-fbfcc7051e27" />
+<img width="1414" height="796" alt="image" src="https://github.com/user-attachments/assets/6b63cc3a-6625-4c6f-b711-69e9234080be" />
+<img width="1419" height="795" alt="image" src="https://github.com/user-attachments/assets/a34bf5ac-0264-4a33-8af0-a5d0d40a1626" />
 
 ## 🧩 Data Model
 
