@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analytics Dashboard (Power BI)
+# 📊 E-Commerce Sales Analytics Dashboard (Power BI) 
 This project presents an end-to-end business intelligence solution using Power BI to analyze e-commerce sales performance, customer behavior, and product profitability.
 
 The dashboard enables stakeholders to track KPIs, identify trends, and make data-driven decisions.
