@@ -3,7 +3,9 @@ This project presents an end-to-end business intelligence solution using Power B
 
 The dashboard enables stakeholders to track KPIs, identify trends, and make data-driven decisions.
 
-<img width="1536" height="1024" alt="E-Commerce Analytics" src="https://github.com/user-attachments/assets/17357b43-4cd6-434e-80db-f0007dde4987" />
+<img width="1324" height="740" alt="Overview" src="https://github.com/user-attachments/assets/35b2f99a-0fe9-45f6-a9ff-aa8e9c6766ad" />
+<img width="1318" height="742" alt="product_analysis" src="https://github.com/user-attachments/assets/1f431f64-c42f-4f92-9b5c-5be4205fa1db" />
+<img width="1324" height="744" alt="retention_analysis" src="https://github.com/user-attachments/assets/ea41ed59-ea08-4c18-94a1-454078bdd78f" />
 
 ## 🌐 Live Dashboard 
 
